@@ -12,4 +12,4 @@ Each writeup covers: what the vulnerability was, how I found it, how I exploited
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/paula-mikhail) · [Email](paulaayman12@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/paula-mikhail) · [Email](mailto:paulaayman12@gmail.com)
